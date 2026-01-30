@@ -1,0 +1,1 @@
+rootProject.name = "T05_TicTacToe"
